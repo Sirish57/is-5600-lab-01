@@ -85,53 +85,53 @@ header div a:hover {
    width: calc(33% - 10px);
    margin: 10px 5px;
    background-color: white;
- }
+}
  
 
- .card div {
+.card div {
    padding: 20px 5px;
- }
+}
  
- .card img {
+.card img {
    width: 100%;
- }
+}
  
- .card div.description {
+.card div.description {
    font-size: 12px;
- }
+}
  
- .card h3 {
+.card h3 {
    font-size: 14px;
- }
+}
  
- .social {
+.social {
    margin-top: 1rem;
    font-size: 12px;
- }
+}
  
- .social span {
+.social span {
    background-size: contain;
    background-repeat: no-repeat;
    padding-left: 25px;
    margin-right: 10px;
- }
+}
  
- .social .heart {
+.social .heart {
    background-image: url(./images/heart.png);
- }
+}
  
- .social .comment {
+.social .comment {
    background-image: url(./images/comment.png);
- }
+}
  
- main {
+main {
    display: flex;
    gap: 10px; /* Adds space between the cards */
- }
+}
  
- .card {
+.card {
    flex: 1;
    background-color: white;
    margin: 10px 5px;
- }
+}
  
